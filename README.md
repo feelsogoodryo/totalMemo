@@ -1,2 +1,3 @@
 # totalMemo
 Summary of notes
+git,jave,js,etc...
